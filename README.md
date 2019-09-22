@@ -15,6 +15,6 @@ Simple project for training on *fetch* method, *promise*, and *api* service.
   
 Clone this repository or download zip file.    
 ```
-git clone git@github.com:mAbadsa/newsletter-signup.git
+git clone git@github.com:mAbadsa/get-location.git
 ```
 run index.html then go to inspector in browser => console
